@@ -5,4 +5,4 @@
 - Declaração de Variaveis
 - Uso de If/Elif/Else
 - Laço de Repetição
-- Formatração de strings
+- Formatação de strings
